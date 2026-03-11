@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.cast{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+.actor{
+    width:120px;
+    text-align:center;
+}
+
+.actor img{
+    width:100%;
+    border-radius:8px;
+}

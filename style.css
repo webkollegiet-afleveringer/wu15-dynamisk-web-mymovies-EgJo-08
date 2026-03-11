@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+a h2{
+    color: #000000;
+}
+
+a p{
+    color:#9C9C9C;
+}
+
+.fa-star{
+    color: #FFC319;
+}
+
+#normal_list{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+
